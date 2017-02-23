@@ -15,11 +15,14 @@
 		"Emmet",
 		"HTML-CSS-JS Prettify",
 		"jQuery",
+		"JsFormat",
 		"LESS",
 		"LiveReload",
 		"Package Control",
 		"Pretty JSON",
 		"SideBarEnhancements",
-		"Theme - Soda"
+		"Theme - Soda",
+		"Vue Syntax Highlight",
+		"Vuejs Snippets"
 	]
 }
